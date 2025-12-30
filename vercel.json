@@ -1,0 +1,16 @@
+{
+  "rewrites": [
+    {
+      "source": "/android",
+      "destination": "/android.html"
+    },
+    {
+      "source": "/ios",
+      "destination": "/ios.html"
+    },
+    {
+      "source": "/windows",
+      "destination": "/windows.html"
+    }
+  ]
+}
