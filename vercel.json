@@ -1,16 +1,16 @@
 {
   "rewrites": [
     {
-      "source": "/android",
-      "destination": "/android.txt"
+      "source": "/ios",
+      "destination": "/api/ios"
     },
     {
-      "source": "/ios",
-      "destination": "/ios.txt"
+      "source": "/android",
+      "destination": "/api/android"
     },
     {
       "source": "/windows",
-      "destination": "/windows.txt"
+      "destination": "/api/windows"
     }
   ]
 }
