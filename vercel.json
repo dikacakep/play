@@ -13,7 +13,7 @@
       "destination": "/api/windows"
     },
     {
-      "source": "/vhost",
+      "source": "/garudaps",
       "destination": "/api/vhost"
     }
   ]
