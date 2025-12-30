@@ -14,7 +14,7 @@
     },
     {
       "source": "/garudaps",
-      "destination": "/api/vhost"
+      "destination": "/api/garudaps"
     }
   ]
 }
