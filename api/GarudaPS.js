@@ -6,6 +6,6 @@ export default function handler(req, res) {
   const content = fs.readFileSync(filePath, 'utf8');
   
   res.setHeader('Content-Type', 'text/plain; charset=utf-8');
-  res.setHeader('Content-Disposition', 'attachment; filename="vhost.txt"');
+  res.setHeader('Content-Disposition', 'attachment; filename="garudaps.txt"');
   res.status(200).send(content);
 }
