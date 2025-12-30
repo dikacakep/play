@@ -1,0 +1,5 @@
+157.66.54.50 growtopia1.com
+157.66.54.50 growtopia2.com
+157.66.54.50 www.growtopia1.com
+157.66.54.50 www.growtopia2.com
+157.66.54.50 growtopiagame.com
