@@ -4,15 +4,15 @@ module.exports = {
     return [
       {
         source: '/ios',
-        destination: '/ios.txt',
+        destination: '/public/ios.txt',
       },
       {
         source: '/android',
-        destination: '/android.txt',
+        destination: '/public/android.txt',
       },
       {
         source: '/windows',
-        destination: '/windows.txt',
+        destination: '/public/windows.txt',
       },
     ]
   },
