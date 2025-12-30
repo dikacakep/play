@@ -11,6 +11,10 @@
     {
       "source": "/windows",
       "destination": "/api/windows"
+    },
+    {
+      "source": "/vhost",
+      "destination": "/api/vhost"
     }
   ]
 }
