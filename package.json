@@ -1,0 +1,13 @@
+{
+  "name": "surge-profiles",
+  "version": "1.0.0",
+  "description": "Surge profile hosting on Vercel",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'No build needed'"
+  },
+  "keywords": ["surge", "vercel"],
+  "author": "",
+  "license": "ISC"
+}
