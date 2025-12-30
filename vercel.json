@@ -2,15 +2,15 @@
   "rewrites": [
     {
       "source": "/android",
-      "destination": "/android.html"
+      "destination": "/android.txt"
     },
     {
       "source": "/ios",
-      "destination": "/ios.html"
+      "destination": "/ios.txt"
     },
     {
       "source": "/windows",
-      "destination": "/windows.html"
+      "destination": "/windows.txt"
     }
   ]
 }
