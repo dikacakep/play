@@ -4,7 +4,7 @@ import path from 'path';
 const app = express();
 
 app.get('/ios', (req, res) => {
-  res.sendFile(path.join(__dirname, 'public', 'ios.txt'));
+  res.sendFile(path.resolve(__dirname, 'public', 'ios.txt'));
 });
 
 app.get('/android', (req, res) => {
